@@ -5,3 +5,7 @@ def runjo():
 print "fuck yeah"
 
 runjo()
+"""
+notes on ipython notebook
+http://ipython.org/ipython-doc/stable/notebook/index.html 
+"""
